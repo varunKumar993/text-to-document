@@ -14,7 +14,9 @@ if(e.key=='Enter')
   handlesubmit(e)
 }
      }} className="textarea"
-     value={text}></textarea></form></div></>;
+     value={text}></textarea></form></div></>
+     textarea
+     ;
 
     }
 export default App;
