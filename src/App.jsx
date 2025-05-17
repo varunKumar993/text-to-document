@@ -14,8 +14,9 @@ if(e.key=='Enter')
   handlesubmit(e)
 }
      }} className="textarea"
-     value={text}></textarea></form></div></>
-     textarea
+     value={text}></textarea></form>
+     <textarea name="" id="" cols="30" rows="10"></textarea></div></>
+
      ;
 
     }
